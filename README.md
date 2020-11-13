@@ -2,7 +2,7 @@
 
 Solutions to the [**17th Iran Internet Programming Contest**](https://icpc.ir/2019/internet-contest) (IIPC) by team **Maravel**.
 
-> The problems are solved *after the contest*.
+> The problems were solved *after the contest*.
 
 # Resources
 
@@ -23,7 +23,7 @@ Solutions to the [**17th Iran Internet Programming Contest**](https://icpc.ir/20
 
 It's just contributions that made us publicize this repository (beside feeling compassionate); They're just amazing for learning, inspiring and creating :smiley:.
 
-### Have other solution(s)?
+### Have other solution?
 
 Follow this simple instructions,
 
@@ -33,25 +33,23 @@ Follow this simple instructions,
 
 3. Place your solution's **code** in the [`src`](src) folder; And it's comprehensive solution (**doc**) in the [`docs`](docs) folder.
 
-	> Your code can be in **any language**.
+	> Your code can be in **any language**. Doc should be written in **markdown**.
 	>
-	> Doc should be written in **markdown**.
-
+	
 4. **Name** your solution (code and doc) with the problem short reference (A, B, ...) plus a unique consecutive number (following the last submitted solution number).
 
-	> For example, if solutions `A, A1, A2` exists, then you should name your solution `A3`.
+	> For example, if solutions `A, A1, A2` exists, then you should name your solution `A3`; Thus, the code file full-name will be  `A3.java` or `A3.cpp` and doc's `A3.md`.
 	>
-	> Thus, code full-name will be  `A3.java` or `A3.cpp` and doc's `A3.md`.
-
+	
 5. Create a **pull-request** against the main branch.
 
 	> Unfamiliar with pull requests? Checkout this [guide](https://guides.github.com/activities/forking/).
 
-### Improvements
+### Improvement
 
-Just create a **pull-request** including your improvements against the main branch.
+Just create a **pull-request** including your improvements, against the main branch.
 
-### Questions
+### Question
 
-Checkout the [**issues**](https://github.com/bcpc-pgu/iipc-17/issues) (including the closed ones); If you can't seem to find an answer, [create a new issue](https://github.com/bcpc-pgu/iipc-17/issues/new/choose) with the ![question-label](https://img.shields.io/github/labels/bcpc-pgu/iipc-17/question?style=flat-square) label; Someone will reach to you.
+Checkout the [**issues**](https://github.com/bcpc-pgu/iipc-17/issues); If you can't seem to find an answer, [create a new issue](https://github.com/bcpc-pgu/iipc-17/issues/new/choose) with the ![question-label](https://img.shields.io/github/labels/bcpc-pgu/iipc-17/question?style=flat-square) label; Someone will reach to you.
 
