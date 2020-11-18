@@ -3,8 +3,8 @@ import java.util.*;
 
 public final class Template {
 
-    private static final NonBlankFastReader in = new NonBlankFastReader(new BufferedReader(new InputStreamReader(System.in))); // 16 MB default buffer
-    private static final PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out))); // 16 MB default buffer
+    private static final FastNonBlankReader in = new FastNonBlankReader(new BufferedReader(new InputStreamReader(System.in))); // 16 KB default buffer
+    private static final PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out))); // 16 KB default buffer
 
     public static void main(String[] args) {
         // HERE
@@ -12,11 +12,11 @@ public final class Template {
         out.flush(); // Mandatory
     }
 
-    private static final class NonBlankFastReader implements Closeable {
+    private static final class FastNonBlankReader implements Closeable {
         private final BufferedReader br;
         private StringTokenizer st;
 
-        private NonBlankFastReader(final BufferedReader bufferedReader) {
+        private FastNonBlankReader(final BufferedReader bufferedReader) {
             br = bufferedReader;
             st = new StringTokenizer("");
         }
