@@ -36,6 +36,6 @@
 
 ## Over-engineering
 
-> *Improvements over the minimal solution; Should not change the complexities (time and memory).
+> *Improvements over the minimal solution; Probably, should not change the complexities (time and memory).
 
 ...
