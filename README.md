@@ -19,37 +19,26 @@ Solutions to the [**17th Iran Internet Programming Contest**](https://icpc.ir/20
 - Comprehensive solutions can be found in the [docs](docs) folder.
 
 
-# Contributing
+# Contributions
 
-It's just contributions that made us publicize this repository (beside feeling compassionate); They're just amazing for learning, inspiring and creating :smiley:.
+Contributions are just amazing. They push projects toward perfection :smiley:.
 
-### Have other solution?
+The **goal** of this project is to publicly host team Maravel's solutions. So...
 
-Follow this simple instructions,
+### Brand new solutions
 
-1. Make sure your solutions works within the limits (**time and memory**), by checking it against all the test cases using an automated system like [DOMjudge](https://www.domjudge.org/).
+Unfortunately, adding brand new solutions are not allowed because of the project's limited goal :pensive:.
 
-2. **Fork** the repository.
-
-3. Place your solution's **code** in the [`src`](src) folder; And it's comprehensive solution (**doc**) in the [`docs`](docs) folder.
-
-	> Your code can be in **any language**. Doc should be written in **markdown**.
-	>
-	
-4. **Name** your solution (code and doc) with the problem short reference (A, B, ...) plus a unique consecutive number (following the last submitted solution number).
-
-	> For example, if solutions `A, A1, A2` exists, then you should name your solution `A3`; Thus, the code file full-name will be  `A3.java` or `A3.cpp` and doc's `A3.md`.
-	>
-	
-5. Create a **pull-request** against the main branch.
-
-	> Unfamiliar with pull requests? Checkout this [guide](https://guides.github.com/activities/forking/).
-
-### Improvement
+### Improvements
 
 Just create a **pull-request** including your improvements, against the main branch.
 
-### Question
+Improvements include (but not limited to):
 
-Checkout the [**issues**](https://github.com/bcpc-pgu/iipc-17/issues); If you can't seem to find an answer, [create a new issue](https://github.com/bcpc-pgu/iipc-17/issues/new/choose) with the ![question-label](https://img.shields.io/github/labels/bcpc-pgu/iipc-17/question?style=flat-square) label; Someone will reach to you.
+- Fixing **Typos** in any file.
+- Improving **code** without changing the implemented approach.
+- **Redactions** over any document.
 
+### Questions
+
+Checkout the [**issues**](https://github.com/bcpc-pgu/iipc-17/issues); If you can't seem to find your question, [create a new issue](https://github.com/bcpc-pgu/iipc-17/issues/new/choose) with the ![question-label](https://img.shields.io/github/labels/bcpc-pgu/iipc-17/question?style=flat-square) label; Someone will reach to you.
